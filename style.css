@@ -21,7 +21,7 @@ p {
 img {
   margin: 1px;
   transition: all 1s;
-  justify-content: stretch;
+  justify-content: center;
 }
 
 img:hover {
