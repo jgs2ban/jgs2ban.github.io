@@ -19,6 +19,8 @@ p {
 }
 
 img {
+  width: 200;
+  height: auto;
   margin: 1px;
   transition: all 1s;
   justify-content: center;
