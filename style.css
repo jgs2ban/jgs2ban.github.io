@@ -2,6 +2,7 @@ body {
   margin: 0px;
 }
 html {
+  width:fit-content;
 background: dimgrey;
 font-family: 'Montserrat', sans-serif;
 }
