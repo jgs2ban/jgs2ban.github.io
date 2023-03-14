@@ -19,7 +19,7 @@ p {
 }
 
 img {
-  width: 200;
+  width: 350px;
   height: auto;
   margin: 1px;
   transition: all 1s;
@@ -33,8 +33,8 @@ img:hover {
 .container {
   display: grid;
   grid-gap: 1px;
-  grid-template-columns: auto auto auto;
-  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
   justify-items: stretch;
   align-items: stretch;
 } 
