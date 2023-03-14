@@ -25,6 +25,7 @@ p {
 }
 */
 img {
+  display: grid;
   margin: 1px;
   transition: all 1s;
   justify-content: stretch;
